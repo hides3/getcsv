@@ -1,3 +1,5 @@
+# 2019/5/22 17:36 github test
+
 import time
 from selenium import webdriver
 
@@ -16,3 +18,6 @@ q.submit()
 # 結果を30秒表示して終了する --- (*7)
 time.sleep(30)
 driver.quit()
+
+
+# 2019/5/22 17:36 github test
